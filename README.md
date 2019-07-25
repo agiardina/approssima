@@ -1,0 +1,2 @@
+# approssima
+c++ approximation library
